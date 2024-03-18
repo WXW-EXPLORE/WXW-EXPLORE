@@ -1,0 +1,11 @@
+D:/WORK/Graduation_Project/data_20240227/VOC/JPEGImages/000009.jpg
+D:/WORK/Graduation_Project/data_20240227/VOC/JPEGImages/000058.jpg
+D:/WORK/Graduation_Project/data_20240227/VOC/JPEGImages/000157.jpg
+D:/WORK/Graduation_Project/data_20240227/VOC/JPEGImages/000174.jpg
+D:/WORK/Graduation_Project/data_20240227/VOC/JPEGImages/000200.jpg
+D:/WORK/Graduation_Project/data_20240227/VOC/JPEGImages/000213.jpg
+D:/WORK/Graduation_Project/data_20240227/VOC/JPEGImages/000304.jpg
+D:/WORK/Graduation_Project/data_20240227/VOC/JPEGImages/000345.jpg
+D:/WORK/Graduation_Project/data_20240227/VOC/JPEGImages/000367.jpg
+D:/WORK/Graduation_Project/data_20240227/VOC/JPEGImages/000453.jpg
+D:/WORK/Graduation_Project/data_20240227/VOC/JPEGImages/000505.jpg
